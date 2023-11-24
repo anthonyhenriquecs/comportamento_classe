@@ -9,7 +9,6 @@ class Televisão():
     def muda_canal_cima(self):
         self.canal +=1
 
-
 tv = Televisão()
 tv.muda_canal_cima()
 tv.muda_canal_cima()
